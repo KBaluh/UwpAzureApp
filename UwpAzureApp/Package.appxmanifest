@@ -9,7 +9,7 @@
   <Identity
     Name="dab0b238-8797-456d-a969-58c7dd956db9"
     Publisher="CN=baluh"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="dab0b238-8797-456d-a969-58c7dd956db9" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
